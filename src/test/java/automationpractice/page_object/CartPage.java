@@ -136,9 +136,14 @@ public class CartPage extends DriverHelper {
         }
     }
 
-    public String Summary(){
-        return txtSummary.getText();
+    public String Summary() {
+        try {
 
+            Thread.sleep(4000);
+             //txtSummary.getText();
+        } catch (Exception e) {
+        }
+        return txtSummary.getText();
     }
 
     public void bankWire(){

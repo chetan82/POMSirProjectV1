@@ -97,7 +97,7 @@ public class  CartStep  {
 
     @Then("^product move to shopping cart summary$")
     public void product_move_to_shopping_cart_summary() throws Throwable {
-       Thread.sleep(4000);
+     //  Thread.sleep(4000);
      assertThat(cartPage.Summary(),is(containsString("Summary")));
 
        cartPage.ProceedToChekout();
