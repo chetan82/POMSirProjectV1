@@ -139,7 +139,7 @@ public class CartPage extends DriverHelper {
     public String Summary() {
         try {
 
-            Thread.sleep(4000);
+            Thread.sleep(10000);
              //txtSummary.getText();
         } catch (Exception e) {
         }
