@@ -1,0 +1,440 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1114153700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User is on home page",
+            "match": {
+              "location": "CartStep.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "Verify user can add single item to the cart from home page BESTSELLER and",
+        "description": "       complete the the whole process of order and receive Order Confirmation.",
+        "id": "cart-functionality;verify-user-can-add-single-item-to-the-cart-from-home-page-bestseller-and",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32659400,
+              "error_message": "java.lang.NullPointerException\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy16.click(Unknown Source)\r\n\tat automationpractice.page_object.CartPage.BestSellersTab(CartPage.java:60)\r\n\tat automationpractice.step_defination.CartStep.user_click_on_BESTSELLER_and_add_product_to_cart(CartStep.java:61)\r\n\tat ✽.When user click on BESTSELLER and add product to cart(Cart.feature:11)\r\n",
+              "status": "failed"
+            },
+            "line": 11,
+            "name": "user click on BESTSELLER and add product to cart",
+            "match": {
+              "location": "CartStep.user_click_on_BESTSELLER_and_add_product_to_cart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user Add the Quantity and Size of the product",
+            "match": {
+              "location": "CartStep.user_Add_the_Quantity_and_Size_of_the_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user select color and add the product",
+            "match": {
+              "location": "CartStep.user_select_color_and_add_the_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "user proceed to checkout",
+            "match": {
+              "location": "CartStep.user_proceed_to_checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "comments": [
+              {
+                "line": 15,
+                "value": "#   Then product successfully added to cart"
+              }
+            ],
+            "line": 16,
+            "name": "product move to shopping cart summary",
+            "match": {
+              "location": "CartStep.product_move_to_shopping_cart_summary()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "user enter email as \"finestsaffron@hotmail.co.uk\" and password as \"finestsaffron\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "finestsaffron@hotmail.co.uk",
+                  "offset": 21
+                },
+                {
+                  "val": "finestsaffron",
+                  "offset": 67
+                }
+              ],
+              "location": "CartStep.user_enter_email_as_and_password_as(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "user confirm address",
+            "match": {
+              "location": "CartStep.user_confirm_address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "user select terms of services for shipping",
+            "match": {
+              "location": "CartStep.user_select_terms_of_services_for_shipping()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "user click on pay by bank wire",
+            "match": {
+              "location": "CartStep.user_click_on_pay_by_bank_wire()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "user click on I confirm my order",
+            "match": {
+              "location": "CartStep.user_click_on_I_confirm_my_order()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "user should see order confirmation",
+            "match": {
+              "location": "CartStep.user_should_see_order_confirmation()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Cart functionality",
+    "description": "       As a registered user i want to add the product to the cart , proceed for payment and received\r\n       order confirmation",
+    "id": "cart-functionality",
+    "keyword": "Feature",
+    "uri": "Cart.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 7,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8308500,
+              "error_message": "java.lang.NullPointerException\r\n\tat automationpractice.page_object.HomePage.getPageTitle(HomePage.java:44)\r\n\tat automationpractice.step_defination.HomePageStep.user_is_on_home_page(HomePageStep.java:37)\r\n\tat ✽.Given user is on home page(HomePage.feature:8)\r\n",
+              "status": "failed"
+            },
+            "line": 8,
+            "name": "user is on home page",
+            "match": {
+              "location": "HomePageStep.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "verify that user can click on menu bar,image links and tab buttons to navigate to another page",
+        "description": "",
+        "id": "home-page-functionality;verify-that-user-can-click-on-menu-bar,image-links-and-tab-buttons-to-navigate-to-another-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user click all buttons on menubar",
+            "match": {
+              "location": "HomePageStep.user_click_all_buttons_on_menubar()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user click on return home page",
+            "match": {
+              "location": "HomePageStep.user_click_on_home_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user click on all image links and banners",
+            "match": {
+              "location": "HomePageStep.user_click_on_all_image_links_and_banners()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "user click on POPULAR and BEST SELLERES tab",
+            "match": {
+              "location": "HomePageStep.user_click_on_POPULAR_and_BEST_SELLERES_tab()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Home page functionality",
+    "description": "\r\nAs a end user\r\ncheck all the links ,banners and menu bar are redirecting\r\nto correct product/category pages",
+    "id": "home-page-functionality",
+    "keyword": "Feature",
+    "uri": "HomePage.feature"
+  },
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 15,
+        "name": "valid search",
+        "description": "",
+        "id": "search-functionality;valid-search;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 685100,
+              "error_message": "java.lang.NullPointerException\r\n\tat automationpractice.page_object.HomePage.getPageTitle(HomePage.java:44)\r\n\tat automationpractice.step_defination.SearchStep.i_am_on_home_page(SearchStep.java:29)\r\n\tat ✽.Given I am on home page(Search.feature:10)\r\n",
+              "status": "failed"
+            },
+            "line": 10,
+            "name": "I am on home page",
+            "match": {
+              "location": "SearchStep.i_am_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I search for a product \"Printed Chiffon Dress\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Printed Chiffon Dress",
+                  "offset": 24
+                }
+              ],
+              "location": "SearchStep.i_search_for_a_product(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "I should see all the products",
+            "match": {
+              "location": "SearchStep.i_should_see_all_the_products()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "valid search",
+        "description": "",
+        "id": "search-functionality;valid-search;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1113800,
+              "error_message": "java.lang.NullPointerException\r\n\tat automationpractice.page_object.HomePage.getPageTitle(HomePage.java:44)\r\n\tat automationpractice.step_defination.SearchStep.i_am_on_home_page(SearchStep.java:29)\r\n\tat ✽.Given I am on home page(Search.feature:10)\r\n",
+              "status": "failed"
+            },
+            "line": 10,
+            "name": "I am on home page",
+            "match": {
+              "location": "SearchStep.i_am_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I search for a product \"Printed Dress\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Printed Dress",
+                  "offset": 24
+                }
+              ],
+              "location": "SearchStep.i_search_for_a_product(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "I should see all the products",
+            "match": {
+              "location": "SearchStep.i_should_see_all_the_products()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "valid search",
+        "description": "",
+        "id": "search-functionality;valid-search;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 688800,
+              "error_message": "java.lang.NullPointerException\r\n\tat automationpractice.page_object.HomePage.getPageTitle(HomePage.java:44)\r\n\tat automationpractice.step_defination.SearchStep.i_am_on_home_page(SearchStep.java:29)\r\n\tat ✽.Given I am on home page(Search.feature:10)\r\n",
+              "status": "failed"
+            },
+            "line": 10,
+            "name": "I am on home page",
+            "match": {
+              "location": "SearchStep.i_am_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "I search for a product \"Faded Short Sleeve T-shirts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Faded Short Sleeve T-shirts",
+                  "offset": 24
+                }
+              ],
+              "location": "SearchStep.i_search_for_a_product(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "I should see all the products",
+            "match": {
+              "location": "SearchStep.i_should_see_all_the_products()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Search Functionality",
+    "description": "       As a end user\r\n       I want to search for a product\r\n       So that i can view respective products",
+    "id": "search-functionality",
+    "keyword": "Feature",
+    "uri": "Search.feature"
+  }
+]
