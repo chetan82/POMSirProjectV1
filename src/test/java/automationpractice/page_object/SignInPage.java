@@ -1,12 +1,10 @@
 package automationpractice.page_object;
 
-import automationpractice.driver.DriverHelper;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class SignInPage extends DriverHelper {
+public class SignInPage extends BasePage {
     public SignInPage() { PageFactory.initElements(driver, this);
     }
     @FindBy(id ="email" )

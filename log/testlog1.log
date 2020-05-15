@@ -1,0 +1,7 @@
+2020-05-15 19:40:02,952 [main] INFO setUp - **********Launching Browser************
+2020-05-15 19:40:38,257 [main] INFO setUp - **********Opening URL************
+2020-05-15 19:40:49,232 [main] INFO setUp - *********Click On Sign In Page********
+2020-05-15 19:40:56,651 [main] INFO setUp - **********  Sign In To Page************
+2020-05-15 19:40:57,187 [main] INFO setUp - ********** Providing Login Details************
+2020-05-15 19:41:01,679 [main] INFO setUp - ********** Loging Passed************
+2020-05-15 19:41:01,787 [main] INFO setUp - ********** Account Holder Name Passed************

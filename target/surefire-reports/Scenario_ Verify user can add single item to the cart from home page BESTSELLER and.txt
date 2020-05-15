@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Scenario: Verify user can add single item to the cart from home page BESTSELLER and
--------------------------------------------------------------------------------
-Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 138.378 s - in Scenario: Verify user can add single item to the cart from home page BESTSELLER and

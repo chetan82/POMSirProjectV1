@@ -1,22 +1,16 @@
 package automationpractice.page_object;
 
-import automationpractice.driver.DriverHelper;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.*;
 
-public class HomePage extends DriverHelper {
+public class HomePage extends BasePage {
 
 // public DriverHelper homePage= new DriverHelper();
     public  HomePage() {

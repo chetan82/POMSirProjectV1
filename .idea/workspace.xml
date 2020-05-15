@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7343b75b-49ce-4506-8658-43f31e476e70" name="Default" comment="" />
+    <list default="true" id="7343b75b-49ce-4506-8658-43f31e476e70" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/feature/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/RunCuckesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RunCuckesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/driver/DriverHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/CartStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/CartStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/HomePageStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/HomePageStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/SearchStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/SearchStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/utils/AutomationConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/utils/AutomationConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/automationpractice/utils/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/automationpractice/utils/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/MyRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Cart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/feature/Cart.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/HomePage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/feature/HomePage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/feature/Search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/seleniumProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/seleniumProject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Scenario_ Verify user can add single item to the cart from home page BESTSELLER and.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario_ Verify user can add single item to the cart from home page BESTSELLER and.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Cart.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomePage.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Search.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/RunCuckesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/driver/DriverHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/CartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/page_object/SignInPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/step_defination/CartStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/step_defination/CartStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/step_defination/HomePageStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/step_defination/HomePageStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/step_defination/SearchStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/step_defination/SearchStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/utils/AutomationConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/utils/AutomationConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/automationpractice/utils/BrowserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/automationpractice/utils/BrowserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/MyRunner.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,102 +63,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RunCuckesTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/RunCuckesTest.java">
+      <file leaf-file-name="LoginSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/LoginSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AutomationConstants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/utils/AutomationConstants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="63" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CartPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/CartPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="144" column="9" lean-forward="true" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
+            <state relative-caret-position="-612">
+              <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
               <folding>
-                <element signature="e#1891#1892#0" expanded="true" />
-                <element signature="e#1932#1933#0" expanded="true" />
-                <element signature="e#3936#3937#0" expanded="true" />
-                <element signature="e#3974#3975#0" expanded="true" />
-                <element signature="e#4011#4012#0" expanded="true" />
-                <element signature="e#4062#4063#0" expanded="true" />
-                <element signature="e#4098#4099#0" expanded="true" />
-                <element signature="e#4142#4143#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Testfile.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Testfile.txt">
+      <file leaf-file-name="Login.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/feature/Login.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="17">
+              <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriverHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/driver/DriverHelper.java">
+      <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+            <state relative-caret-position="-136">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cart.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/Cart.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-            </state>
-          </provider>
+      <file leaf-file-name="testlog.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/testlog.log">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="HomePage.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/HomePage.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Search.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/Search.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
+      <file leaf-file-name="testlog1.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/testlog1.log">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="131">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartStep.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/CartStep.java">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="99" column="7" selection-start-line="99" selection-start-column="7" selection-end-line="99" selection-end-column="7" />
+            <state relative-caret-position="355">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/CartPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/utils/BrowserFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,9 +166,36 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Substep Feature" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkboxSelected</find>
+      <find>shippingText</find>
+      <find>selectTermsServicesCheckbox</find>
+      <find>SignInPage</find>
+      <find>DriverHelper</find>
+      <find>iframe</find>
+      <find>iteamName</find>
+      <find>clickHomepageTabs</find>
+      <find>menuBarButtons</find>
+      <find>clickhomePageimageLinks</find>
+      <find>clickToProceedToCheckout</find>
+      <find>submitSearchField</find>
+      <find>searchedIteam</find>
+      <find>clickAddToCart</find>
+      <find>emailBox</find>
+      <find>txtSummary</find>
+      <find>passwdBox</find>
+      <find>buttonSignIn</find>
+      <find>txtError</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project\Drivers</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,23 +215,37 @@
         <option value="$PROJECT_DIR$/src/test/java/automationpractice/utils/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/CartStepDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/HomePageStpDefi.java" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SearchPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/HomePageStep.java" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SignInPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/utils/AutomationConstants.java" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/utils/BrowserFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/automationpractice/Hooks.java" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/SearchStep.java" />
         <option value="$PROJECT_DIR$/src/test/resources/Search.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/Cart.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/HomePage.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/RunCuckesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/automationpractice/driver/DriverHelper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/HomePage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Testfile.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/CartStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/feature/Cart.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/RunCuckesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testRunner/RunCuckesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/feature/Search.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/LoginSetps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/DriverHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/CartPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SearchPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/SignInPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/SearchStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/HomePageStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/feature/Login.feature" />
+        <option value="$PROJECT_DIR$/config.properties" />
+        <option value="$PROJECT_DIR$/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/RunCuckesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/utils/AutomationConstants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/CartStep.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/page_object/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/utils/BrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/automationpractice/step_defination/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Hooks.java" />
       </list>
     </option>
   </component>
@@ -167,6 +253,13 @@
     <enabled-run-configurations>
       <run-configuration type="JUnit" name="MyRunner" />
     </enabled-run-configurations>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -203,19 +296,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="seleniumProject" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumProject" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,6 +307,11 @@
               <item name="POM_Sir_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="POM_Sir_Project" type="462c0819:PsiDirectoryNode" />
               <item name="Drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POM_Sir_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POM_Sir_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="POM_Sir_Project" type="b2602c69:ProjectViewProjectNode" />
@@ -266,15 +351,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="automationpractice" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POM_Sir_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POM_Sir_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="automationpractice" type="462c0819:PsiDirectoryNode" />
               <item name="page_object" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -301,14 +377,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
+              <item name="feature" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="POM_Sir_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POM_Sir_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="seleniumProject" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumProject" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -318,21 +400,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="C:/Program Files/Java/jre1.8.0_171/lib" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apache-log4j-1.2.17" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="automationpractice.testRunner" />
       <recent name="dfgdfgdfg.fsdfsdfsd.rrtrtrt" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project\Drivers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="dfgdfgdfg" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project\Drivers" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project" />
+      <recent name="C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project\src\test\resources" />
+      <recent name="C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project\src\test\java" />
+      <recent name="C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project\src\test\java\automationpractice" />
+      <recent name="C:\Users\CHETTU\Desktop\JavaProgrammes\POM_Sir_Project\src\test\java\feature" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -377,14 +468,14 @@
       <module name="POM_Sir_Projecct" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="automationpractice.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="automationpractice" />
-      <option name="MAIN_CLASS_NAME" value="automationpractice.Hooks" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Hooks" />
       <option name="METHOD_NAME" value="setUp" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -423,19 +514,19 @@
       <module name="POM_Sir_Projecct" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="automationpractice.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="automationpractice" />
-      <option name="MAIN_CLASS_NAME" value="automationpractice.RunCuckesTest" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunCuckesTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
@@ -511,34 +602,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunCuckesTest - 2020.04.30 at 16h 00m 18s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 15h 30m 44s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.04.30 at 18h 44m 42s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 15h 48m 05s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.04.30 at 18h 46m 08s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 16h 06m 55s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.04.30 at 18h 48m 10s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 16h 08m 37s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.05.01 at 18h 24m 44s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 16h 10m 15s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.05.01 at 18h 43m 31s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 16h 31m 37s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.05.01 at 19h 04m 01s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 16h 38m 26s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.05.02 at 17h 07m 23s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 18h 07m 01s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.05.03 at 03h 10m 23s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 18h 29m 44s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCuckesTest - 2020.05.03 at 03h 12m 36s.xml">
+    <history-entry file="RunCuckesTest - 2020.05.15 at 19h 41m 05s.xml">
       <configuration name="RunCuckesTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -553,6 +644,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
@@ -561,84 +653,39 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32843137" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.13388805" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2647059" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.13388805" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31862745" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.20751634" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.65522873" visible="true" weight="0.30408472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.65522873" visible="true" weight="0.37594554" />
       <window_info id="Structure" order="1" sideWeight="0.34477124" side_tool="true" weight="0.26928896" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info id="Favorites" order="5" sideWeight="0.34477124" side_tool="true" weight="0.26928896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27941176" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.65522873" visible="true" weight="0.2700454" />
-      <window_info id="Structure" order="1" sideWeight="0.34477124" side_tool="true" weight="0.26928896" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20751634" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.31699347" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.086727" />
-      <window_info id="Favorites" order="5" sideWeight="0.34477124" side_tool="true" weight="0.26928896" />
-    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="32" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShrikantSir_Project.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShrikantSir_Project.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShrikantSir_Project.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/automationpractice/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/automationpractice/Hello/Home.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/dfgdfgdfg/fsdfsdfsd/rrtrtrt/gjh.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/dfgdfgdfg/uyuyi.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/dfgdfgdfg/fsdfsdfsd/rrtrtrt/uyuyi.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/dfgdfgdfg/fsdfsdfsd/rrtrtrt/edefdf.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/automationpractice/page_object/fdfd/dsfsd.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/automationpractice/page_object/HomePage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/automationpractice/page_object/Cart.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/HomePage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/CartAddproducts.feature" />
@@ -705,120 +752,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/runners/MyRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/SignInPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/Cart.feature">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/HomePage.feature">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/cucumber-html-report/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/Hooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="21" selection-start-line="19" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="90" column="27" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/utils/BrowserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/SearchStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/SearchPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/HomePageStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/RunCuckesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/utils/AutomationConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Search.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/HomePage.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/driver/DriverHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Cart.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/Cart.feature" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/HomePage.feature" />
     <entry file="file://$PROJECT_DIR$/Testfile.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -826,27 +761,203 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/reports/cucumber.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="174" column="6" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/cucumber-html-report/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runners/MyRunner.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/Cart.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/HomePage.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1311#1312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/SearchStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-Scenario_ Verify user can add single item to the cart from home page BESTSELLER and.xml" />
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/Scenario_ Verify user can add single item to the cart from home page BESTSELLER and.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/HomePageStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/application.html" />
     <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/CartStep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="99" column="7" selection-start-line="99" selection-start-column="7" selection-end-line="99" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/utils/AutomationConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/Search.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunCuckesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/CartPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="144" column="9" lean-forward="true" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding>
-            <element signature="e#1891#1892#0" expanded="true" />
-            <element signature="e#1932#1933#0" expanded="true" />
-            <element signature="e#3936#3937#0" expanded="true" />
-            <element signature="e#3974#3975#0" expanded="true" />
-            <element signature="e#4011#4012#0" expanded="true" />
-            <element signature="e#4062#4063#0" expanded="true" />
-            <element signature="e#4098#4099#0" expanded="true" />
-            <element signature="e#4142#4143#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/page_object/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/utils/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/automationpractice/step_defination/LoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/testlog.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/testlog1.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -926,7 +1037,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <last-edited>apache-log4j-1.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

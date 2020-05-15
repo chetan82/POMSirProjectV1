@@ -1,5 +1,6 @@
-package automationpractice.driver;
+package automationpractice.page_object;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -7,15 +8,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
+import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-public class DriverHelper {
+public class BasePage {
 
     public static WebDriver driver;
  //  String url = "http://automationpractice.com/index.php";
 
-
-
+    public static Logger logger;
+    public static Properties configPro;
 
 
     public void maxBrowser() {

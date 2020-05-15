@@ -1,33 +1,17 @@
 package automationpractice.step_defination;
 
-import automationpractice.driver.DriverHelper;
+import automationpractice.page_object.BasePage;
 import automationpractice.page_object.CartPage;
 import automationpractice.page_object.HomePage;
 import automationpractice.page_object.SignInPage;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import org.junit.Assert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.text.StringCharacterIterator;
-import java.util.List;
-import java.util.concurrent.TimeUnit;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 
-import static org.hamcrest.Matchers.equalTo;
-
-public class  CartStep  {
+public class  CartStep extends  BasePage {
 
    // WebDriver driver;
 
@@ -57,6 +41,7 @@ public class  CartStep  {
     @When("^user click on BESTSELLER and add product to cart$")
     public void user_click_on_BESTSELLER_and_add_product_to_cart() throws Throwable {
 
+     //   logger.info("**********Selecting the product and adding to the cart************");
 
         cartPage.BestSellersTab();
        cartPage.scrollToProduct();

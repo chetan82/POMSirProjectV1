@@ -1,16 +1,12 @@
 
 package automationpractice.step_defination;
 
-import automationpractice.driver.DriverHelper;
+import automationpractice.page_object.BasePage;
 import automationpractice.page_object.HomePage;
 import automationpractice.page_object.SearchPage;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.util.concurrent.TimeUnit;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static  org.hamcrest.Matchers.*;
@@ -20,7 +16,6 @@ public class SearchStep  {
 
     public HomePage homePage;
     public SearchPage searchPage;
-    public  DriverHelper driverHelper;
 
 
     @Given("^I am on home page$")
@@ -41,8 +36,6 @@ public class SearchStep  {
 
     @Then("^I should see all the products$")
     public void i_should_see_all_the_products()throws Throwable {
-        driverHelper= new DriverHelper();
-
       String actual= searchPage.assertSearchedText();
       String expected=searchPage.assertSearchedIteam();
         //System.out.println(actual+"ex "+ expected);

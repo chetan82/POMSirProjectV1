@@ -1,12 +1,11 @@
 package automationpractice.page_object;
 
-import automationpractice.driver.DriverHelper;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class SearchPage extends DriverHelper {
+public class SearchPage extends BasePage {
     public  SearchPage() {
         PageFactory.initElements(driver,this);
     }
